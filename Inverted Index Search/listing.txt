@@ -1,0 +1,7 @@
+The parameter list consists of none or more parameters. Parameters are called arguments, if the function is called. The function body consists of indented statements. The function body gets executed every time the function is called.
+Parameter can be mandatory or optional. The optional parameters (zero or more) must follow the mandatory parameters.
+Function bodies can contain one or more return statement.
+They can be situated anywhere in the function body.
+A return statement ends the execution of the function call and "returns" the result.
+The value of the expression following the return keyword, to the caller. If the return statement is without an expression, the special value None is returned.
+If there is no return statement in the function code, the function ends, when the control flow reaches the end of the function body and the value "None" will be returned.
